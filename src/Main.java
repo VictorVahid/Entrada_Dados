@@ -30,11 +30,11 @@ public class Main {
 
 		//Resultados
 
-		System.out.println("Nome: " + nome);
-		System.out.println("Idade: " + idade);
-		System.out.printf("Salário: R$%.2f%n", +salario);
-		System.out.println("Primeira Letra do nome: " + letra_nome);
-		System.out.println("Frase Completa: " + frase);
+		System.out.println("Nome : " + nome);
+		System.out.println("Idade : " + idade);
+		System.out.printf("Salário : R$%.2f%n", +salario);
+		System.out.println("Primeira Letra do nome : " + letra_nome);
+		System.out.println("Frase Completa : " + frase);
 
 		scanner.close();
 	}
