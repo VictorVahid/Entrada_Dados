@@ -22,7 +22,7 @@ public class Main {
 		salario = scanner.nextDouble();
 		//Primeira Letra do Nome
 		System.out.println("Digite a primeira letra do seu Nome: ");
-		letra_nome = scanner.next().charAt(0); // Corrija para charAt(0)
+		letra_nome = scanner.next().charAt(0);
 		scanner.nextLine();
 		//Frase Completa
 		System.out.println("Digite uma frase completa: ");
